@@ -16,6 +16,7 @@ source_url: '/index.md'
 * [Build Essential](read/subject/build-essential)
 * [Build with pkg-config](read/subject/build-essential/pkg-config)
 * [Build with qmake](read/subject/build-essential/qmake)
+* [Build with meson](read/subject/build-essential/meson)
 
 
 ## Demo
