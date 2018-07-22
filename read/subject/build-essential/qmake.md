@@ -57,7 +57,7 @@ int main(int argc, char *argv[])
 
 ### [step-02](https://github.com/foreachsam/book-lang-cpp-qt/blob/gh-pages/example/build-howto/qmake/step-02/step.sh)
 
-執行下面指令，產生檔案「[demo.pro]((https://github.com/foreachsam/book-lang-cpp-qt/blob/gh-pages/example/build-howto/qmake/step-02/demo/demo.pro))」。
+執行下面指令，產生檔案「[demo.pro](https://github.com/foreachsam/book-lang-cpp-qt/blob/gh-pages/example/build-howto/qmake/step-02/demo/demo.pro)」。
 
 ``` sh
 qmake -project
