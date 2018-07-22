@@ -89,3 +89,9 @@ make
 ``` sh
 ./demo
 ```
+
+
+## 更多參考
+
+* [https://doc.qt.io/qt-5/qmake-manual.html](https://doc.qt.io/qt-5/qmake-manual.html)
+* [http://zetcode.com/gui/qt5/introduction/](http://zetcode.com/gui/qt5/introduction/)
