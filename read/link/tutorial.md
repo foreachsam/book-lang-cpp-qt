@@ -12,3 +12,6 @@ parent:
 
 
 ## Tutorial
+
+* [http://zetcode.com/gui/qt5/](http://zetcode.com/gui/qt5/)
+* [http://monkeycoding.com/?page_id=5](http://monkeycoding.com/?page_id=5)
