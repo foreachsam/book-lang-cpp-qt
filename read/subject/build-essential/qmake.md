@@ -16,7 +16,7 @@ source_url: '/read/subject/build-essential/pkg-config.md'
 ## 執行步驟
 
 
-### step-00
+### [step-00](https://github.com/foreachsam/book-lang-cpp-qt/blob/gh-pages/example/build-howto/qmake/step-00/step.sh)
 
 執行下面指令，建立資料夾「demo」，並且切換到資料夾「demo」。
 
@@ -27,7 +27,7 @@ cd demo
 ```
 
 
-### step-01
+### [step-01](https://github.com/foreachsam/book-lang-cpp-qt/blob/gh-pages/example/build-howto/qmake/step-01/step.sh)
 
 執行下面指令，產生檔案「main.cpp」。
 
@@ -55,16 +55,16 @@ int main(int argc, char *argv[])
 ```
 
 
-### step-02
+### [step-02](https://github.com/foreachsam/book-lang-cpp-qt/blob/gh-pages/example/build-howto/qmake/step-02/step.sh)
 
-執行下面指令，產生檔案「demo.pro」。
+執行下面指令，產生檔案「[demo.pro]((https://github.com/foreachsam/book-lang-cpp-qt/blob/gh-pages/example/build-howto/qmake/step-02/demo/demo.pro))」。
 
 ``` sh
 qmake -project
 ```
 
 
-### step-03
+### [step-03](https://github.com/foreachsam/book-lang-cpp-qt/blob/gh-pages/example/build-howto/qmake/step-03/step.sh)
 
 執行下面指令，產生檔案「Makefile」。
 
@@ -73,7 +73,7 @@ qmake
 ```
 
 
-## step-04
+## [step-04](https://github.com/foreachsam/book-lang-cpp-qt/blob/gh-pages/example/build-howto/qmake/step-04/step.sh)
 
 執行下面指令，進行「編譯」。
 
@@ -82,7 +82,7 @@ make
 ```
 
 
-## step-05
+## [step-05](https://github.com/foreachsam/book-lang-cpp-qt/blob/gh-pages/example/build-howto/qmake/step-05/step.sh)
 
 執行編譯好的執行檔「demo」。
 
