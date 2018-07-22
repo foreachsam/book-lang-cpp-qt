@@ -153,7 +153,8 @@ $ g++ -o app main.cpp -fPIC $(pkg-config --libs --cflags Qt5Core)
 
 ## 範例
 
-* [example/build-howto/pkg-config/QtCore/demo](/book-lang-cpp-qt/example/build-howto/pkg-config/QtCore/demo)
+* [example/build-howto/pkg-config/QtCore/demo-f-pic](https://github.com/foreachsam/book-lang-cpp-qt/blob/gh-pages/example/build-howto/pkg-config/QtCore/demo-f-pic)
+* [example/build-howto/pkg-config/QtCore/demo](https://github.com/foreachsam/book-lang-cpp-qt/blob/gh-pages/example/build-howto/pkg-config/QtCore/demo)
 
 
 ## 相關參考
