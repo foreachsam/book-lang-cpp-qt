@@ -10,6 +10,8 @@ source_url: '/read/subject/build-essential/pkg-config.md'
 
 延續上一篇「[Build Essential](/book-lang-cpp-qt/read/subject/build-essential)」，
 
+接下來，了解如何搭配「pkg-config」來編譯。
+
 
 ## qt5-default
 
@@ -162,3 +164,9 @@ $ g++ -o app main.cpp -fPIC $(pkg-config --libs --cflags Qt5Core)
 * [https://developer.gnome.org/glib/stable/glib-compiling.html](https://developer.gnome.org/glib/stable/glib-compiling.html)
 * [https://developer.gnome.org/gtk3/stable/gtk-compiling.html](https://developer.gnome.org/gtk3/stable/gtk-compiling.html)
 * [http://zetcode.com/gui/qt5/introduction/](http://zetcode.com/gui/qt5/introduction/)
+
+
+
+## qmake
+
+接下來，了解如何搭配「[qmake](qmake)」來編譯。
